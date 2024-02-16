@@ -1,0 +1,11 @@
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    background: url("https://www.creativefabrica.com/wp-content/uploads/2020/02/10/Purple-Gradient-Background-Graphics-1.jpg")
+      no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
